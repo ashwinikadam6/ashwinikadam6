@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am B-tech computer Science engineering student<br>learning java and DSA <br>Exploring AL and Machine learning<br>Always learning and building projects<br>passionate about problem solving
+I am B-tech computer Science Engineering Student<br>learning java and DSA <br>Exploring AL and Machine learning<br>Always learning and building projects<br>passionate about problem solving
 
 
 ## 🌐 Socials:
